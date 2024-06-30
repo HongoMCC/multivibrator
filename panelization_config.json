@@ -13,13 +13,16 @@
     "cuts": {
         "type": "mousebites",
         "spacing": "0.74mm",
-        "offset": "0.25mm"
+        "offset": "-0.25mm"
     },
     "framing": {
         "type": "frame",
         "width": "3mm",
         "cuts": "h",
         "fillet": "3mm"
+    },
+    "text4": {
+        "type": "simple"
     },
     "post": {
         "copperfill": "True",
